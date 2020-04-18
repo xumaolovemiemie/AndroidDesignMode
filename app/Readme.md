@@ -1,0 +1,12 @@
+singleton       -->     单例模式
+builder         -->     Builder模式
+prototype       -->     原型模式
+factory         -->     工厂方法模式
+abstractFactory -->     抽象工厂模式
+strategy        -->     策略模式
+state           -->     状态模式
+chain           -->     责任链模式
+expression      -->     解释器模式
+command         -->     命令模式
+observer        -->     观察者模式
+iterator        -->     迭代器模式
